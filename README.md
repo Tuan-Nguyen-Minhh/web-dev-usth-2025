@@ -18,3 +18,10 @@ I will use this repo to take notes and keep track of important concepts.
 ### 📝 Notes  
 In this repo, I will record important things I learn in this course (for my own study reference).  
 
+### 📊 Grading
+
+| Component       | Percentage |
+|-----------------|------------|
+| Attendance      | 10%        |
+| Midterm Exam    | 40%        |
+| Final Exam      | 50%        |
