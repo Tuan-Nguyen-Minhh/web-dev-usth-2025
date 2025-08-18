@@ -1,5 +1,20 @@
-# web-dev-usth-2025
-Overview : web course b3 in usth
-Teacher : Nguyen Thi Phuong
-Time : 30 hours for learning and 10 hours for practice
-In this repo , I will note somethings important in this course ( important for me )
+# 🌐 Web Development - USTH 2025
+
+## 📌 Overview  
+This is my repository for the **Web Course B3** at **USTH**.  
+I will use this repo to take notes and keep track of important concepts.  
+
+---
+
+### 👩‍🏫 Teacher  
+- **Nguyen Thi Phuong**
+
+### ⏳ Time Allocation  
+- **30 hours** – Learning  
+- **10 hours** – Practice  
+
+---
+
+### 📝 Notes  
+In this repo, I will record important things I learn in this course (for my own study reference).  
+
