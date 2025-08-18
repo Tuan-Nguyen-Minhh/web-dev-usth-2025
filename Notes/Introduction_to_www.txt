@@ -1,0 +1,26 @@
+                                                    Introduction To The World Wide Web
+                                                                (WWW)
+I.Concepts
+    3 Important Concepts : The Web , A web page , A web sites
+- The World Wide Web also called The Web , a web page and a web site 
+- A web page is a document on the WWW
+- A web site is a collection of related webpages 
+Structure:
+The web (WWW)
+|
+|
+v
+A website (Facebook , Google , Youtube)
+|
+|--> A web page 1 : fb.com/pages 
+|
+|--> A web page 2 : fb.com/watches
+II. Web Client - Server System
+    Contain 2 parts : web client and web Server
+- Web client sends HTTP requests to a web server , then reads HTML documents and display
+- Web server receives requests from web client and sends HTTP response (usually HTTL doc) to a web client
+Ex : web client (chrome , firefox) -> access to facebook.com -> sends HTTP request to server from fb -> Server receive request and sends HTTP response (HTML doc) -> web client receice response and read HTML file and display
+
+
+
+
