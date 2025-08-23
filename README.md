@@ -22,6 +22,6 @@ In this repo, I will record important things I learn in this course (for my own 
 
 | Component       | Percentage |
 |-----------------|------------|
-| Attendance      | 10%        |
+| Attendance      | 0%        |
 | Midterm Exam    | 40%        |
-| Final Exam      | 50%        |
+| Final Exam      | 60%        |
