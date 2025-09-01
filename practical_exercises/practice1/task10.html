@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Layout Blocks</title>
+  <style>
+    body{
+      margin: 0;
+    }
+    .header{
+        background-color: #3d67b6;
+        height: 70px;
+    }
+    .container {
+  display: flex;
+  background-color: #3d67b6;
+  padding: 4px;
+  height: 600px;
+  flex-direction: row;
+  gap: 5px;
+}
+  .left{
+    background-color: #dadada;
+    width: 200px;
+    height: 600px;
+  }
+  .right{
+    background-color: #c4e0b4;
+    flex:1;
+    height: 600px;
+  }
+  .footer{
+        background-color: #3d67b6;
+        height: 70px;
+  }
+  </style>
+</head>
+<body>
+  <div class = "header"></div>
+  <div class = "container">
+    <div class = "left"></div>
+    <div class = "right"></div>
+  </div>
+  <div class = "footer"></div>
+</body>
+</html>
